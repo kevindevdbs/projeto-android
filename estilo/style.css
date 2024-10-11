@@ -172,10 +172,11 @@ aside h3{
 aside ul{
     list-style-position: inside;
     columns: 2;
-    list-style: '\✅';
-    padding: 30px;
-    
+    list-style: '\✔️';
+    padding: 30px 30px 30px 100px;
+    font-weight: normal;
 }
+
 footer{
     background-color: var(--cor5);
     color: white;
