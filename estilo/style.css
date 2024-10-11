@@ -171,7 +171,6 @@ aside h3{
 }
 aside ul{
     list-style-position: inside;
-    columns: 2;
     list-style: '\✔️';
     padding: 30px 30px 30px 10px;
     font-weight: bold;
